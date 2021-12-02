@@ -1,20 +1,26 @@
 
 # Brailletouch
-Dispositivo braille para personas con discapacidad visual y sordociegas
+  Dispositivo braille para personas con discapacidad visual y sordociegas
 
 # Edicion por Ed
-El proyecto consta principalmente de 3 partes.
+  El proyecto consta principalmente de 3 partes.
+  
   Diseño fisico del dispositivo braile
+  
   Diseño de la electronica y firmware
+ 
   Diseño de la interfaz con un lector de pantalla de codigo libre
  
 # Diseño del dispositivo fisico
   Celda braile
+  
   Botones
+  
   Caja
 
 # Electronica y firmware
   ESP32 y seleccion de power source, baterias o jack.
+  
   Codigo .ino utilizando el IDE arduino
   
 # Interfaz con un lector de pantalla de codigo libre
