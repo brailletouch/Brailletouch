@@ -34,9 +34,9 @@ The encoder is practically the heart of the braille display. Most commercial bra
 # Electronica y firmware / Electronics and firmware
   ESP32 y seleccion de power source, baterias o jack. / ESP32 and selection of power source, batteries or jack.
   
-1)  Controldor  PWM / PWM controller
+1 - Controldor  PWM / PWM controller
   
-4)  PCF8574 Multiplexor/Demultiplexor 8 Canales / PCF8574 Multiplexor/Demultiplexor 8 Channels
+4 - PCF8574 Multiplexor/Demultiplexor 8 Canales / PCF8574 Multiplexor/Demultiplexor 8 Channels
   
   Codigo .ino utilizando el IDE arduino / .Ino code using the arduino IDE
   
@@ -51,6 +51,8 @@ The encoder is practically the heart of the braille display. Most commercial bra
 1  ESP32.
 
 4 Servo motores.
+
+4  PCF8574 Multiplexor/Demultiplexor 8 Canales 
 
 1 Celda braille  (se esta desarrollando con 4 servo motores para mover 8 pines, se puede usar cualquier celda braille sea punzo eletrica de servo o de solenoide es solo una celda ya que los movimientos se simulan en la linea tactil)
 
