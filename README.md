@@ -78,6 +78,15 @@ PCF8574 library https://www.arduino.cc/reference/en/libraries/pcf8574-library/
 ![image](https://github.com/discapacidad5/brailletouch/blob/main/paltalla%20braille%201.png)
 ![image](https://github.com/discapacidad5/brailletouch/blob/main/paltalla%20braille%20celda%20braile.png)
 
+1 - ESP32 microcontroller / microcontolador ESP32
+
+2 - Coencion pins for the physical keyboard are 32 keys / pines de coencion para el teclado fisico son 32 teclas
+
+3 - controller for cervomotors / controlador para los cervomotores
+
+4 - cervomotors / cervomotores
+
+5 - virtual breille cells with tatil sensor / celdas breille virtuales con sensor tatil
 
 ![image](https://github.com/discapacidad5/brailletouch/blob/main/diagrama%201%20de%20coneciones%20brailletouch.png)
 
