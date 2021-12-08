@@ -79,3 +79,6 @@ PCF8574 library https://www.arduino.cc/reference/en/libraries/pcf8574-library/
 ![image](https://github.com/discapacidad5/brailletouch/blob/main/paltalla%20braille%20celda%20braile.png)
 
 
+![image](https://github.com/discapacidad5/brailletouch/blob/main/diagrama%201%20de%20coneciones%20brailletouch.png)
+
+
