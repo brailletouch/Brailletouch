@@ -18,7 +18,12 @@ The encoder is practically the heart of the braille display. Most commercial bra
   Diseño de la interfaz con un lector de pantalla de codigo libre / Interface design with a free code screen reader
  
 # Diseño del dispositivo fisico / Physical device design
+
+
+
   Celda braile / Braille cell
+  
+
   
   linea matricial de sensores 40 táctiles / matrix line of 40 touch sensors
   
@@ -28,7 +33,10 @@ The encoder is practically the heart of the braille display. Most commercial bra
 
 # Electronica y firmware / Electronics and firmware
   ESP32 y seleccion de power source, baterias o jack. / ESP32 and selection of power source, batteries or jack.
+  
   Controldor  PWM / PWM controller
+  
+  Cd74hc4067 Multiplexor/Demultiplexor 16 Canales / Cd74hc4067 Multiplexor/Demultiplexor 16 Channels
   
   Codigo .ino utilizando el IDE arduino / .Ino code using the arduino IDE
   
@@ -62,6 +70,7 @@ Una conector PS/2 si se quiere usar un teclado para escribir  persona sordociega
 1 placas de circuito impreso de los sensores tatil ( todavian en desarrollo se busca poder cotrolar 40 posiciones con solo 9 pines que son los disponibles en el ESP32 con soporte tactiles pines 2.4,12,13,14,15,27,32,33 ).
 ![image](https://user-images.githubusercontent.com/9951014/143519725-5d493c91-513b-4640-ae0b-aba3ea0b435c.png)
 ![image](https://github.com/discapacidad5/brailletouch/blob/main/esp32-pca9685-hookup.jpg)
+![image]https://github.com/discapacidad5/brailletouch/blob/main/be4db-1.jpg)
 ![image](https://github.com/discapacidad5/brailletouch/blob/main/paltalla%20braille%201.png)
 ![image](https://github.com/discapacidad5/brailletouch/blob/main/paltalla%20braille%20celda%20braile.png)
 
