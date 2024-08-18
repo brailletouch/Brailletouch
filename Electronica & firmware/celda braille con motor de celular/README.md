@@ -74,7 +74,7 @@ La celda está diseñada para ser impresa en 3D y ofrece una solución accesible
 #### **Instrucciones de montaje**
 
 1. **Impresión 3D:** Imprime todas las piezas utilizando una impresora 3D compatible.
-2. **Ensamblaje:** Un archivo 3D ensamblado se proporciona como referencia en "assembly.stl".
+2. **Ensamblaje:** Un archivo 3D ensamblado se proporciona como referencia en "assembly.STEP".
 3. **Conexión eléctrica:** Conecta los componentes electrónicos según el diagrama esquemático proporcionado en "schematic.png".
 4. **Configuración del software:** Carga el firmware del ESP32 en el dispositivo. Reemplaza la función `Braille_disp(dato)` con la función
 5. personalizada que proporciona el control detallado de cada motor.
@@ -122,7 +122,7 @@ an accessible and customizable solution for visually impaired individuals.
 #### **Assembly Instructions**
 
 1. **3D Printing:** Print all the parts using a compatible 3D printer.
-2. **Assembly:** An assembled 3D file is provided as a reference in "assembly.stl".
+2. **Assembly:** An assembled 3D file is provided as a reference in "assembly.STEP".
 3. **Electrical Connection:** Connect the electronic components according to the schematic diagram provided in "schematic.png".
 4. **Software Setup:** Upload the ESP32 firmware to the device. Replace the `Braille_disp(dato)` function with a custom function that
 5. provides detailed control of each motor.
