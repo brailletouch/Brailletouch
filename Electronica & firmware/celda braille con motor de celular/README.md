@@ -1,4 +1,7 @@
-![Celda Braille 3D]([ https://github.com/tu_usuario/tu_repositorio/ruta_a_la_imagen.jpg](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly1.PNG?raw=true))
+
+
+
+![Celda Braille 3D]([https://github.com/tu_usuario/tu_repositorio/ruta_a_la_imagen.jpg]](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly1.PNG?raw=true)).
 
 
 ### **3D Printed Braille Cell**
