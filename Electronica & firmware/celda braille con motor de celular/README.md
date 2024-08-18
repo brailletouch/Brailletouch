@@ -3,49 +3,52 @@
 
 ![Celda Braille 3D](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly1.PNG?raw=true).
 
-
-### **3D Printed Braille Cell**
+### **3D-Printed Braille Cell**
 
 #### **Description**
 
-This project details the construction of a Braille cell using vibration motors from mobile phones. The cell is designed to be 3D printed and offers an accessible and customizable solution for visually impaired people.
+This project details the construction of a Braille cell using cellphone vibrating motors. The cell is designed to be 3D printed and offers 
+an accessible and customizable solution for visually impaired individuals.
 
 #### **Key Components**
 
-* **Vibration motors:** 8 individual vibration motors, each responsible for raising a Braille dot.
-* **L9110 motor drivers:** Used to control the direction and speed of the vibration motors.
-* **74LS04 logic inverter:** Inverts the logic signal to control the direction of the motors with a single pin of the ESP32.
+* **Vibrating Motors:** 8 individual vibrating motors, each responsible for raising one Braille dot.
+* **L9110 Motor Drivers:** Used to control the direction of the vibrating motors.
+* **74LS04 Logic Inverter:** Inverts the logic signal to control the motor direction with a single ESP32 pin.
 * **ESP32:** Main microcontroller that generates the control signals for the motors.
-* **Switches (transistors):** Detect when the motors reach the endstops and cut the power to prevent damage.
-* **3D design:** The 3D files of the Braille cell are available in this repository for download and printing.
+* **Limit Switches (transistors):** Detect when the motors reach their limits and cut power to prevent damage.
+* **3D Design:** The 3D files for the Braille cell are available in this repository for download and printing.
 
 #### **Operation**
 
-1. **Direction control:**
-   * A single pin of the ESP32 controls the direction of all motors.
-   * When the pin is high, the motors rotate in one direction.
-   * The 74LS04 inverts the signal when the pin is low, causing the motors to rotate in the opposite direction.
-2. **Motor stopping:**
-   * The switches (transistors) detect when the motors reach the physical endstops.
-   * Upon detecting an endstop, the switch cuts the power to the corresponding motor, preventing it from continuing to rotate.
+1. **Direction Control:**
+   * A single pin of the ESP32 controls both directions of a motor.
+   * When the pin is high, the motor rotates in one direction.
+   * The 74LS04 inverts the signal when the pin is low, causing the motor to rotate in the opposite direction.
 
-#### **Assembly instructions**
+2. **Motor Stopping:**
+   * The limit switches (transistors) detect when the motors reach the physical limits.
+   * Upon detection, the switch cuts power to the corresponding motor, preventing it from continuing to rotate.
 
-1. **3D printing:** Print all parts using a compatible 3D printer.
-2. **Assembly:** Follow the detailed assembly instructions in the "assembly_instructions.pdf" file.
-3. **Electrical connection:** Connect the electronic components according to the schematic diagram provided in "schematic.png".
-4. **Software configuration:** Load the ESP32 firmware onto the device.
+#### **Assembly Instructions**
+
+1. **3D Printing:** Print all the parts using a compatible 3D printer.
+2. **Assembly:** An assembled 3D file is provided as a reference in "assembly.STEP".
+3. **Electrical Connection:** Connect the electronic components according to the schematic diagram provided in "schematic.png".
+4. **Software Setup:** Upload the ESP32 firmware to the device. Replace the `Braille_disp(dato)` function with a custom function that
+5. provides detailed control of each motor.
 
 #### **Files**
 
-* **3D files:** Contains the 3D models of all parts of the Braille cell.
-* **Schematic diagram:** Shows the connection of all electronic components.
+* **3D Files:** Contain the 3D models of all Braille cell parts.
+* **Schematic Diagram:** Shows the connection of all electronic components.
 * **Firmware:** Source code for the ESP32.
-* **Documentation:** Additional documentation on the project.
+* **Documentation:** Additional documentation about the project.
 
 #### **Contributions**
 
-Contributions are welcome. If you find any errors or would like to improve this project, feel free to open an issue or submit a pull request.
+Contributions are welcome. If you find any errors or want to improve this project, feel free to open an issue or submit a pull request.
+
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 ### **Celda Braille Impresa en 3D**
@@ -94,53 +97,7 @@ La celda está diseñada para ser impresa en 3D y ofrece una solución accesible
 
 Las contribuciones son bienvenidas. Si encuentras algún error o deseas mejorar este proyecto, no dudes en abrir un issue o enviar una pull request.
 
----
 
-### **3D-Printed Braille Cell**
-
-#### **Description**
-
-This project details the construction of a Braille cell using cellphone vibrating motors. The cell is designed to be 3D printed and offers 
-an accessible and customizable solution for visually impaired individuals.
-
-#### **Key Components**
-
-* **Vibrating Motors:** 8 individual vibrating motors, each responsible for raising one Braille dot.
-* **L9110 Motor Drivers:** Used to control the direction of the vibrating motors.
-* **74LS04 Logic Inverter:** Inverts the logic signal to control the motor direction with a single ESP32 pin.
-* **ESP32:** Main microcontroller that generates the control signals for the motors.
-* **Limit Switches (transistors):** Detect when the motors reach their limits and cut power to prevent damage.
-* **3D Design:** The 3D files for the Braille cell are available in this repository for download and printing.
-
-#### **Operation**
-
-1. **Direction Control:**
-   * A single pin of the ESP32 controls both directions of a motor.
-   * When the pin is high, the motor rotates in one direction.
-   * The 74LS04 inverts the signal when the pin is low, causing the motor to rotate in the opposite direction.
-
-2. **Motor Stopping:**
-   * The limit switches (transistors) detect when the motors reach the physical limits.
-   * Upon detection, the switch cuts power to the corresponding motor, preventing it from continuing to rotate.
-
-#### **Assembly Instructions**
-
-1. **3D Printing:** Print all the parts using a compatible 3D printer.
-2. **Assembly:** An assembled 3D file is provided as a reference in "assembly.STEP".
-3. **Electrical Connection:** Connect the electronic components according to the schematic diagram provided in "schematic.png".
-4. **Software Setup:** Upload the ESP32 firmware to the device. Replace the `Braille_disp(dato)` function with a custom function that
-5. provides detailed control of each motor.
-
-#### **Files**
-
-* **3D Files:** Contain the 3D models of all Braille cell parts.
-* **Schematic Diagram:** Shows the connection of all electronic components.
-* **Firmware:** Source code for the ESP32.
-* **Documentation:** Additional documentation about the project.
-
-#### **Contributions**
-
-Contributions are welcome. If you find any errors or want to improve this project, feel free to open an issue or submit a pull request.
 
 ![Celda Braille 3D](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly2.PNG?raw=true).
 
