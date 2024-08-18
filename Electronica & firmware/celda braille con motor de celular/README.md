@@ -1,7 +1,7 @@
 
 
 
-![Celda Braille 3D]([https://github.com/tu_usuario/tu_repositorio/ruta_a_la_imagen.jpg]](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly1.PNG?raw=true)).
+![Celda Braille 3D](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly1.PNG?raw=true).
 
 
 ### **3D Printed Braille Cell**
@@ -141,6 +141,22 @@ an accessible and customizable solution for visually impaired individuals.
 #### **Contributions**
 
 Contributions are welcome. If you find any errors or want to improve this project, feel free to open an issue or submit a pull request.
+
+![Celda Braille 3D](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly2.PNG?raw=true).
+
+![Celda Braille 3D](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly3.PNG?raw=true).
+
+
+![Celda Braille 3D](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly4.PNG?raw=true).
+
+
+
+![Celda Braille 3D](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly6.PNG?raw=true).
+
+
+![Celda Braille 3D](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly10.PNG?raw=true).
+
+
 
 
 
