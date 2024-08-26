@@ -1,3 +1,29 @@
+/*
+ * Brailletouch - Open Source Braille Display
+ *
+ * Description:
+ * This code is part of the Brailletouch project, an open-source initiative aimed at reducing the cost of braille displays.
+ The project uses a combination of physical and virtual braille cells to make assistive technology more accessible.
+ *
+ * Project Repository:
+ * GitHub: https://github.com/brailletouch/Brailletouch
+ *
+ * License:
+ * This code is licensed under the Braille Touch Open and Community License (BTAC) v1.2.
+ You are free to use, copy, modify, and distribute this code under the conditions of this license. For more details, 
+ please review the LICENSE file in the repository.
+ *
+ * Contact:
+ * Cergio Monasterio
+ * WhatsApp: +58 412 999 4784 (Please communicate in Spanish only) 
+ *
+ * Date: 26/08/2024
+ * Version: 1.1
+ *
+ * Copyright (c) 2024 Brailletouch
+ * This code is provided "as is", without warranty of any kind. For licensing terms, see the LICENSE file.
+ */
+
 
 #include "BluetoothSerial.h"
 
