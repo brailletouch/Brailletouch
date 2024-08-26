@@ -114,6 +114,29 @@ Las contribuciones son bienvenidas. Si encuentras algún error o deseas mejorar 
 ![Celda Braille 3D](https://github.com/brailletouch/Brailletouch/blob/main/Electronica%20&%20firmware/celda%20braille%20con%20motor%20de%20celular/image/assembly10.PNG?raw=true).
 
 
+## Licencia / License
+
+Este proyecto está bajo la **Licencia Abierta y Comunitaria Braille Touch (BTAC) v1.2**. Esta licencia garantiza que todo el código, hardware, conceptos, metodologías, mecanismos, innovaciones tecnológicas, invenciones y cualquier otra creación o desarrollo relacionado con el proyecto Braille Touch permanezcan abiertos y accesibles, y no puedan ser privatizados.
+
+This project is licensed under the **Braille Touch Open and Community License (BTAC) v1.2**. This license ensures that all code, hardware, concepts, methodologies, mechanisms, technological innovations, inventions, and any other creations or developments related to the Braille Touch project remain open and accessible and cannot be privatized.
+
+### Permisos / Permissions
+- Puedes usar, copiar, modificar, distribuir y comercializar el código, hardware, conceptos, innovaciones y derivados del proyecto bajo las condiciones de esta licencia. / You may use, copy, modify, distribute, and commercialize the code, hardware, concepts, innovations, and derivatives of the project under the conditions of this license.
+
+### Registro de Modificaciones / Modification Record
+- Las modificaciones y mejoras deben incluir un registro detallado de todas las personas y entidades involucradas, con una descripción clara y enlaces al repositorio original. / Modifications and improvements must include a detailed record of all individuals and entities involved, with a clear description and links to the original repository.
+
+### No Privatización / No Privatization
+- El código y las innovaciones no pueden ser privatizados. Todo trabajo derivado debe permanecer bajo esta misma licencia. / The code and innovations cannot be privatized. All derivative work must remain under this same license.
+
+### Compatibilidad y Comercialización / Compatibility and Commercialization
+- Cualquier trabajo derivado debe ser distribuido bajo la misma licencia. La comercialización está permitida siempre que se respeten las condiciones de la licencia. / Any derivative work must be distributed under the same license. Commercialization is allowed as long as the license conditions are respected.
+
+Para más detalles sobre la licencia, por favor revisa el archivo [LICENCIA](https://github.com/brailletouch/Brailletouch/blob/main/LICENCIA.md)  en el repositorio. / For more details about the license, please review the [LICENSE](https://github.com/brailletouch/Brailletouch/blob/main/LICENSE.md) file in the repository.
+
+---
+
+Para más información, visita nuestro repositorio en [GitHub](https://github.com/brailletouch/Brailletouch). / For more information, visit our repository on [GitHub](https://github.com/brailletouch/Brailletouch).
 
 
 
