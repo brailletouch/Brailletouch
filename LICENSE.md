@@ -1,6 +1,5 @@
-
-
-# Braille Touch Open and Community License (BTAC) v1.2
+# Braille Touch Open and Community License (BTAC)
+## **Version 1.1, August 26, 2024**
 
 ### 1. License Definition and Scope
 The **Braille Touch Open and Community License (BTAC)** is a strong copyleft license ensuring that all code, hardware, concepts, methodologies, mechanisms, technological innovations, inventions, and any other creations or developments related to the Braille Touch project remain open, accessible, and cannot be privatized under any circumstances.
@@ -96,9 +95,19 @@ This license covers not only code and hardware but also innovative concepts, met
 ### 14. Continuity of the Community
 The purpose of this license is to foster a collaborative community where all contributions, whether technical, conceptual, or methodological, are recognized and remain open for use, improvement, and distribution. By participating in this project, each contributor agrees to follow these principles and help preserve open access to knowledge.
 
----
+### 15. Governing Law and Jurisdiction
+This License is governed by the laws of the country where the original Project is located.
 
-### License Type
-The **Braille Touch Open and Community License (BTAC)** is a strong copyleft license designed to protect not only the code and hardware of the project but also any concepts, methodologies, inventions, or technological innovations that emerge as part of it. It is inspired by licenses such as the GNU GPL and AGPL but includes additional protections for physical and conceptual innovations, ensuring that all work related to the project remains open and accessible.
+Any disputes or controversies related to this License will be resolved through arbitration in the country where the original Project is located.
 
----
+### 16. Acceptance
+By using, distributing, modifying, or improving the Original Code, Original Design, Modified Code, or Modified Design, the licensee agrees to the terms and conditions of this License.
+
+### 17. Authorization
+Any person or entity is authorized to use this License and to provide a copy of it.
+
+### 18. License Versions
+This License may be modified or updated at any time. Any modified or updated version of the License will be considered a new version of the same.
+
+### 19. General Provisions
+This License constitutes the entire and final agreement between the parties. If any provision of this License is deemed invalid or unenforceable, the remaining provisions shall remain in effect.
