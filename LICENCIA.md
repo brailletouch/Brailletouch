@@ -1,5 +1,5 @@
 # Licencia Abierta y Comunitaria Braille Touch (BTAC) v1.2
-##  **Version 1.1, Agosto 26, 2024**
+##  **Version 1.2, Agosto 26, 2024**
 
 ### 1. Definición y Alcance de la Licencia
 La **Licencia Abierta y Comunitaria Braille Touch (BTAC)** es una licencia de copyleft fuerte que garantiza que todo el código, hardware, conceptos, metodologías, mecanismos, innovaciones tecnológicas, invenciones y cualquier otra creación o desarrollo relacionado con el proyecto Braille Touch permanezcan abiertos, accesibles y no puedan ser privatizados en ninguna circunstancia.
