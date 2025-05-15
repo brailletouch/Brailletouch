@@ -1,8 +1,8 @@
-# Braille Touch Open and Community License (BTAC)
-## **Version 1.2, August 26, 2024**
+# Licencia Abierta y Comunitaria Braille Touch (BTAC) v1.2.1
+##  **Version 1.2.1, May 15, 2025**
 
 ### 1. License Definition and Scope
-The **Braille Touch Open and Community License (BTAC)** is a strong copyleft license ensuring that all code, hardware, concepts, methodologies, mechanisms, technological innovations, inventions, and any other creations or developments related to the Braille Touch project remain open, accessible, and cannot be privatized under any circumstances.
+The **Braille Touch Open and Community License (BTAC)** is a strong copyleft license ensuring that all code, hardware, concepts, methodologies, mechanisms, technological innovations, inventions, and any other creations or developments related to the Braille Touch project remain open, accessible, and **cannot be privatized or become more restrictive under any circumstances.**
 
 This license covers, but is not limited to:
 - Source code and software.
@@ -24,7 +24,7 @@ Whenever a modification, improvement, or new innovation is made, a detailed regi
 - Link to their repository, website, or where their work is published (if applicable).
 - Clear and detailed description of the contribution (code, hardware, concept, methodology, etc.).
 
-This registry must always reference the original Braille Touch project and design, as well as all previous contributions that have been integrated into the version being used.
+This registry must always reference the original **Braille Touch** project and design, as well as all previous contributions that have been integrated into the version being used.
 
 The registry must be present and visible in:
 - Project documentation.
@@ -39,7 +39,7 @@ All derivative work must include:
 - Detailed mentions of all previous contributions and modifications that have been incorporated into the derivative work, maintaining a chain of attributions reflecting the evolution of the project from its inception.
 
 ### 5. No Privatization
-The code, hardware, methodologies, concepts, and any other aspect covered by this license cannot be privatized or used in closed projects. All derivative work must remain open under this same license, ensuring that any innovation related to the Braille Touch project is accessible to all and continues to be open-source and open-technology.
+The code, hardware, methodologies, concepts, and any other aspect covered by this license **cannot be privatized or used in closed projects.** All derivative work must remain under this same license, ensuring that any innovation related to the Braille Touch project is accessible to all and continues to be open-source and open-technology.
 
 This principle extends to:
 - Software and source code.
@@ -49,16 +49,16 @@ This principle extends to:
 - Mechanisms and processes.
 
 ### 6. License Compatibility
-Any derivative work, whether it uses part or all of the code, hardware, methodologies, or innovations covered by this license, must be distributed under the **BTAC License** without exception. This ensures that all related work remains accessible, open, and cannot be appropriated for private or closed projects.
+Any derivative work, whether it uses part or all of the code, hardware, methodologies, or innovations covered by this license, **must be distributed under the BTAC License** without exception. This ensures that all related work remains accessible, open, and **cannot be appropriated for private or closed projects.**
 
-This license also guarantees that any conceptual or technological innovation based on the original project must remain under this license, protecting all future contributions.
+This license also guarantees that any conceptual or technological innovation based on the original project **must remain under this license**, protecting all future contributions.
 
 ### 7. Commercialization
 The code, hardware, concepts, methodologies, and derived products can be commercialized by any person or entity, provided that:
 - The code and innovations remain open and publicly available under this license.
 - The conditions of registry, contributor mention, and attribution to the original project are respected.
 
-There are no restrictions on commercialization as long as access to knowledge and derived innovations remains free and community-driven.
+**There are no restrictions on commercialization as long as access to knowledge and derived innovations remains free and community-driven.** This license aims to foster a business model where profit is not at the expense of excluding access to technology due to disability.
 
 ### 8. Publication of Modifications and Innovations
 All modifications, improvements, or technological or conceptual innovations must:
@@ -68,37 +68,39 @@ All modifications, improvements, or technological or conceptual innovations must
 This requirement ensures transparency in the development of the project and guarantees that the community can benefit from all improvements made.
 
 ### 9. Inclusion of Innovations and New Methodologies
-Any innovation, whether in software, hardware, concepts, processes, or mechanisms, must be documented and appended to a list of improvements forming part of the original project. This includes, but is not limited to:
+Any innovation, whether in software, hardware, concepts, processes, or mechanisms, must be documented and added to a list of improvements that form part of the project original. This includes, but is not limited to:
 - Software and source code innovations.
 - New methodologies or concepts applied to the project.
 - Physical mechanisms or processes that improve hardware design or operation.
 - Any invention or technology derived from the project.
 
-### 10. Preservation of the License
-This license cannot be modified or replaced by a more restrictive license or one that allows privatization. Any derivative work must continue under the **BTAC License**, preserving open access, collaboration, and the community spirit of the project.
+### 10. **Future License Versions: Immutability Towards Restrictions**
+The original licensor may publish modified or updated versions of this License ("Later Versions") to **clarify existing terms, add coverage for new technical aspects, or make the license MORE permissive.** Each Later Version shall be considered a new version of the same.
 
-This protection covers all code, hardware, concepts, methodologies, inventions, innovations, mechanisms, or processes developed as part of the project.
+**However, NO Later Version of this License may impose additional restrictions, remove permissions, or reduce the openness or rights granted by the version of this License under which the Covered Material was initially received.** The intent is that the license can only evolve towards greater clarity or greater openness.
+
+Any derivative work must be licensed under the version of the BTAC License under which the Covered Material was received, or any Later Version published by the original licensor, provided that the Later Version is not more restrictive than the version under which the material was received.
 
 ### 11. Attribution to the Original Project
 All derivative or modified work must include a clear attribution to the original **Braille Touch** project and a link to the official repository or website. This must be present in:
 - Project documentation.
 - Source code.
-- Hardware and physical devices.
+- Hardware and physical devices (where feasible).
 - Any conceptual or methodological innovation derived from the project.
 
 ### 12. Patent Protection
-By accepting this license, any person or entity agrees not to claim or enforce patents on any aspect of the code, hardware, concept, methodology, mechanism, or innovation derived from the Braille Touch project. This ensures that all innovations under this license remain open and not subject to legal restrictions.
+By accepting this license, any person or entity agrees **not to claim or enforce patents** on any aspect of the code, hardware, concept, methodology, mechanism, or innovation derived from the Braille Touch project. This ensures that all innovations under this license remain open and are not subject to exclusive legal restrictions.
 
 ### 13. Inclusion of Innovative Concepts and Methodologies
-This license covers not only code and hardware but also innovative concepts, methodologies, and any invention associated with the project. Anyone contributing a new methodology, mechanism, or concept to the project must ensure that it is documented and publicly available, so it can be used and improved by others under this same license.
+This license covers not only code and hardware but also innovative concepts, methodologies, and any invention associated with the project. Anyone who contributes a new methodology, mechanism, or concept to the project must ensure that it is documented and publicly available, so it can be used and improved by others under this same license.
 
 ### 14. Continuity of the Community
 The purpose of this license is to foster a collaborative community where all contributions, whether technical, conceptual, or methodological, are recognized and remain open for use, improvement, and distribution. By participating in this project, each contributor agrees to follow these principles and help preserve open access to knowledge.
 
 ### 15. Governing Law and Jurisdiction
-This License is governed by the laws of the country where the original Project is located.
+This License is governed by the laws of [Country where the Original Project is Located, e.g., Venezuela].
 
-Any disputes or controversies related to this License will be resolved through arbitration in the country where the original Project is located.
+Any disputes or controversies related to this License will be resolved through arbitration in [City or Country where the Original Project is Located].
 
 ### 16. Acceptance
 By using, distributing, modifying, or improving the Original Code, Original Design, Modified Code, or Modified Design, the licensee agrees to the terms and conditions of this License.
@@ -106,8 +108,5 @@ By using, distributing, modifying, or improving the Original Code, Original Desi
 ### 17. Authorization
 Any person or entity is authorized to use this License and to provide a copy of it.
 
-### 18. License Versions
-This License may be modified or updated at any time. Any modified or updated version of the License will be considered a new version of the same.
-
-### 19. General Provisions
+### 18. General Provisions
 This License constitutes the entire and final agreement between the parties. If any provision of this License is deemed invalid or unenforceable, the remaining provisions shall remain in effect.
